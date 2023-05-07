@@ -1,0 +1,20 @@
+{
+  "name": "gueff/phimcap",
+  "description": "phimcap provides a captcha image you could use in your own html forms.",
+  "keywords": ["php","captcha","image","phimcap"],
+  "license": "GPL-3.0-or-later",
+  "require": {
+    "php": ">=7.4"
+  },
+  "authors": [
+    {
+      "name": "Guido K.B.W. Ueffing"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-0": {
+      "Phimcap": ""
+    }
+  }
+}
